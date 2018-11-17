@@ -15,7 +15,7 @@ if(isset($_SESSION['username']))
     }
 }
 else {
-    header("Location:client/user/loginpage.php");
+    header("Location:client/user/umum/index.php");
 }
 
 
