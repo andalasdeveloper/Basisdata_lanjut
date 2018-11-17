@@ -12,10 +12,7 @@
             <span>Pages</span>
           </a>
           <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-            <h6 class="dropdown-header">Cari Tanah</h6>
-            <b>Range:</b> 
-            <input onchange="range()" type='range' name="range" id='range' min='0' max='1000'>
-          
+
              <div class="dropdown-divider"></div>
             <h6 class="dropdown-header">Test:</h6>
             <a class="dropdown-item"  href="#">Test</a>

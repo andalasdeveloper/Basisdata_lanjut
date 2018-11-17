@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1c1498-8a0a-4e7e-b096-f3a3dc12ff9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet-src.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet-src.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet-src.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/framework/leaflet/leaflet.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pemilik/include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pemilik/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pemilik/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pemilik/test2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pencari/include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/pencari/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.codeclimate.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/BREAKINGCHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/Jakefile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/MIT-LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/TODO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/build.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/deps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/docs-index.leafdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/docs-misc.leafdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/hintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/comments.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/constructor.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/crs.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/destructor.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/event.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/example.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/factory.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/function.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/html.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/inherited.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/method.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/namespace.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/option.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/pane.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/projection.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/property.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/section.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leafdoc-templates/supersection.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/leaflet.draw-include.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/build/publish.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/spritesheet-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/dist/images/spritesheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/edithandlers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/Leaflet.draw.drag-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/leaflet.geometryutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/leaflet.snap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/spectrum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/libs/spectrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples-0.7.x/snapping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/edithandlers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/Leaflet.draw.drag-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/leaflet-src.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/leaflet.geometryutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/leaflet.snap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/spectrum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/libs/spectrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/popup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/examples/snapping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/highlight/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/highlight/highlight.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/highlight/styles/github-gist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/forum-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/github-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/sprite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/twitter-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/js/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-0.4.9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/docs/leaflet-draw-latest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/after.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/before.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/expect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/happen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/sinon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/spec.hintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/suites/DrawControlSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/suites/EditSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/suites/GeometryUtilSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/suites/LatLngUtilSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/spec/suites/SpecHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/Control.Draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/Leaflet.Draw.Event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/Leaflet.draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/Toolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/Tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/copyright.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/DrawToolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.CircleMarker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Polygon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Polyline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.Rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/draw/handler/Draw.SimpleShape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/EditToolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.Circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.CircleMarker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.Marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.Poly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.Rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/Edit.SimpleShape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/EditToolbar.Delete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/edit/handler/EditToolbar.Edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/GeometryUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/LatLngUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/LineUtil.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/Polygon.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/Polyline.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/ext/TouchEvents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/images/spritesheet-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/images/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/images/spritesheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/user/plugin_draw/src/leaflet.draw.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/view/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/client/view/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/view/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/client/view/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/js/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/js/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.codeclimate.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/BREAKINGCHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/Jakefile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/MIT-LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/TODO.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/build.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/deps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/docs-index.leafdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/docs-misc.leafdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/hintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/comments.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/constructor.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/crs.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/destructor.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/event.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/example.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/factory.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/function.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/html.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/inherited.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/method.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/namespace.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/option.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/pane.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/projection.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/property.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/section.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leafdoc-templates/supersection.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/leaflet.draw-include.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/build/publish.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/spritesheet-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/dist/images/spritesheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/edithandlers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/Leaflet.draw.drag-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/marker-icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/leaflet.geometryutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/leaflet.snap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/spectrum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/libs/spectrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples-0.7.x/snapping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/edithandlers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/Leaflet.draw.drag-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/images/layers-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/images/layers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/images/marker-icon-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/images/marker-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/images/marker-shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/leaflet-src.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/leaflet-src.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/leaflet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/leaflet.geometryutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/leaflet.snap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/spectrum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/libs/spectrum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/popup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/examples/snapping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/highlight/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/highlight/highlight.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/highlight/styles/github-gist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/forum-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/github-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/sprite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/twitter-round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/images/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/js/docs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-0.4.9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/docs/leaflet-draw-latest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/after.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/before.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/expect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/happen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/sinon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/spec.hintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/suites/DrawControlSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/suites/EditSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/suites/GeometryUtilSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/suites/LatLngUtilSpec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/spec/suites/SpecHelper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/Control.Draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/Leaflet.Draw.Event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/Leaflet.draw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/Toolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/Tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/copyright.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/DrawToolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.CircleMarker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Feature.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Polygon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Polyline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.Rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/draw/handler/Draw.SimpleShape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/EditToolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.Circle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.CircleMarker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.Marker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.Poly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.Rectangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/Edit.SimpleShape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/EditToolbar.Delete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/edit/handler/EditToolbar.Edit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/GeometryUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/LatLngUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/LineUtil.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/Polygon.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/Polyline.Intersect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/ext/TouchEvents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/images/spritesheet-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/images/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/images/spritesheet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugin_draw/src/leaflet.draw.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="294923894">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+          <entry key="php" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="10" />
+          <entry key="php" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="10" />
+          <entry key="PHP" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/user/umum/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/view/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/user/logout.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/user/loginpage.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/view/content _nomap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#9#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/map.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/js/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/view/sidebar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pages</find>
+      <find>andala</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/view/sidebar.php" />
+        <option value="$PROJECT_DIR$/server/js/main.js" />
+        <option value="$PROJECT_DIR$/server/js/map.js" />
+        <option value="$PROJECT_DIR$/client/view/content.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/client/framework/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/client/framework/bootstrap/vendor/fontawesome-free/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bdlv2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdlv2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bdlv2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdlv2" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bdlv2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdlv2" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bdlv2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bdlv2" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1c1498-8a0a-4e7e-b096-f3a3dc12ff9d" name="Default Changelist" comment="" />
+      <created>1542455801389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542455801389</updated>
+      <workItem from="1542455803719" duration="5729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5729000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/view/content _nomap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#9#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/user/umum/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/js/map.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/view/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/user/logout.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/user/loginpage.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/view/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
